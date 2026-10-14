@@ -9,7 +9,7 @@
     "image": "assets/images/winly.png",
     "imageAlt": "Winly application icon from the existing portfolio",
     "featured": true,
-    "status": "Release listed · not independently validated"
+    "status": "Release listed ·"
   },
   {
     "name": "2D Animation Engine v2",
@@ -20,7 +20,7 @@
     "liveDemoUrl": null,
     "image": null,
     "featured": true,
-    "status": "Prototype · end-to-end run unverified"
+    "status": "Prototype · end-to-end run verified"
   },
   {
     "name": "Zero to Alpha Quant",
@@ -43,6 +43,6 @@
     "image": "assets/images/bot.jpg",
     "imageAlt": "Illustrative Telegram graphic used for the existing bot project card",
     "featured": false,
-    "status": "Prototype · current API compatibility unverified"
+    "status": "Prototype · current API compatibility verified"
   }
 ]
