@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Winly",
+    "description": "Explore Winly, a Python/Tkinter desktop app for reviewing trade history from a local MetaTrader 5 terminal, summarizing records, exporting CSV, and plotting equity data.",
+    "category": "Desktop application",
+    "technologies": ["Python", "Tkinter", "MetaTrader5", "pandas", "matplotlib"],
+    "githubUrl": "https://github.com/victory65/Winly",
+    "liveDemoUrl": null,
+    "image": "assets/images/winly.png",
+    "imageAlt": "Winly application icon from the existing portfolio",
+    "featured": true,
+    "status": "Release listed · not independently validated"
+  },
+  {
+    "name": "2D Animation Engine v2",
+    "description": "Explore a modular Python prototype for turning scripts into videos. Its CLI and Streamlit entry points split the workflow into scene data, narration, visuals, subtitles, audio, and FFmpeg assembly.",
+    "category": "Media automation",
+    "technologies": ["Python", "Streamlit", "FFmpeg", "Pillow", "MoviePy", "Kokoro ONNX"],
+    "githubUrl": "https://github.com/victory65/2d-animation_engine_v2",
+    "liveDemoUrl": null,
+    "image": null,
+    "featured": true,
+    "status": "Prototype · end-to-end run unverified"
+  },
+  {
+    "name": "Zero to Alpha Quant",
+    "description": "Explore the first data-ingestion pipeline in this repository: it collects OHLCV data for equities/forex and crypto, applies retries and cleanup, then writes Parquet files. This is an early-stage project—not 100 finished projects or a verified trading strategy.",
+    "category": "Data engineering",
+    "technologies": ["Python", "pandas", "yfinance", "CCXT", "Parquet"],
+    "githubUrl": "https://github.com/victory65/zero-to-alpha-quant",
+    "liveDemoUrl": null,
+    "image": null,
+    "featured": false,
+    "status": "Early-stage · one pipeline in the repository"
+  },
+  {
+    "name": "Telegram AI Bot",
+    "description": "Take a look at a Python Telegram-bot prototype with a text handler that calls OpenAI Chat Completions and a Tkinter status window. Runtime behavior and API compatibility haven’t been independently verified.",
+    "category": "Python automation",
+    "technologies": ["Python", "pyTelegramBotAPI", "OpenAI API", "Tkinter", "threading"],
+    "githubUrl": "https://github.com/victory65/Telegram-AI-Bot",
+    "liveDemoUrl": null,
+    "image": "assets/images/bot.jpg",
+    "imageAlt": "Illustrative Telegram graphic used for the existing bot project card",
+    "featured": false,
+    "status": "Prototype · current API compatibility unverified"
+  }
+]
