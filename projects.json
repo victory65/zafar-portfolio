@@ -5,7 +5,7 @@
     "category": "Desktop application",
     "technologies": ["Python", "Tkinter", "MetaTrader5", "pandas", "matplotlib"],
     "githubUrl": "https://github.com/victory65/Winly",
-    "liveDemoUrl": null,
+    "liveDemoUrl": "https://github.com/victory65/Winly/releases/download/Winly/winly_v2.exe",
     "image": "assets/images/winly.png",
     "imageAlt": "Winly application icon from the existing portfolio",
     "featured": true,
